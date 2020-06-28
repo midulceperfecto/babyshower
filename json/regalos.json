@@ -1,0 +1,101 @@
+[
+     {
+        "nom": "Almohada asiento ",
+        "des": "Asiento para el bebe *",
+        "sale": 0,
+        "part": 10,
+        "img": "cuarto/AlmohadaAsiento.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1000"
+    },
+     {
+        "nom": "Almohada para el bebe",
+        "des": "Almohadita de bebe *",
+        "sale": 0,
+        "part": 10,
+        "img": "cuarto/AlmohadaBebe.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "999"
+    },
+     {
+        "nom": "Almohada de Lactancía",
+        "des": "Cojin para lactancia *",
+        "sale": 0,
+        "part": 10,
+        "img": "cuarto/AlmohadaLactancia.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "988"
+    },
+     {
+        "nom": "Cambiador de pañal",
+        "des": "Cambiador de pañal *",
+        "sale": 0,
+        "part": 20,
+        "img": "cuarto/Cambiador.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "2"
+    },
+     {
+        "nom": "Protector de cuna",
+        "des": "Protector de cuna *",
+        "sale": 0,
+        "part": -1,
+        "img": "cuarto/ProtectorCuna.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "3"
+    },
+     {
+        "nom": "Juego de sábanas",
+        "des": "Juego de sábanas *",
+        "sale": 0,
+        "part": 10,
+        "img": "cuarto/JuegoSabanas.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Lámpara",
+        "des": "Lámpara que nos ayudará a cambiar al bebe *",
+        "sale": 0,
+        "part": -1,
+        "img": "cuarto/Lampara.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Edredón",
+        "des": "Edredón para cubrir al bebe *",
+        "sale": 0,
+        "part": -1,
+        "img": "cuarto/Eedredon.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Monitor",
+        "des": "Para poder monitorizar *",
+        "sale": 0,
+        "part": -1,
+        "img": "cuarto/Monitor.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Colchón",
+        "des": "Para su cuna. Se deja las dimensiones * ",
+        "sale": 0,
+        "part": -1,
+        "img": "cuarto/Colchon.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Cojin antivuelcos",
+        "des": "Para que nos ayude en la protección del bebe *",
+        "sale": 0,
+        "part": 20,
+        "img": "cuarto/CojinAntivuelcos.JPG",
+        "tags": "all,inicio,cuarto",
+        "fav": "1"
+    }
+]

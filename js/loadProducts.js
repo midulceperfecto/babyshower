@@ -1,5 +1,5 @@
 
-    var urlJSON = 'https://midulceperfecto.github.io/test/json/tortas.json';
+    var urlJSON = 'https://midulceperfecto.github.io/babyshower/json/regalos.json';
     var urlWhatsApp = 'https://wa.me/51956235897?text='
 
     $(document).ready(function () {
