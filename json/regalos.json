@@ -4,7 +4,7 @@
         "des": "Asiento para el bebe *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/almohadaasiento.jpg",
+        "img": "Cuarto/almohadaasiento.jpg",
         "tags": "all,inicio,cuarto",
         "fav": "1000"
     },
@@ -13,7 +13,7 @@
         "des": "Almohadita de bebe *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/AlmohadaBebe.JPG",
+        "img": "Cuarto/AlmohadaBebe.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "999"
     },
@@ -22,7 +22,7 @@
         "des": "Cojin para lactancia *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/AlmohadaLactancia.JPG",
+        "img": "Cuarto/AlmohadaLactancia.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "988"
     },
@@ -31,7 +31,7 @@
         "des": "Cambiador de pañal *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/Cambiador.JPG",
+        "img": "Cuarto/Cambiador.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "2"
     },
@@ -40,7 +40,7 @@
         "des": "Protector de cuna *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/ProtectorCuna.JPG",
+        "img": "Cuarto/ProtectorCuna.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "3"
     },
@@ -49,7 +49,7 @@
         "des": "Juego de sábanas *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/JuegoSabanas.JPG",
+        "img": "Cuarto/JuegoSabanas.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
     },
@@ -58,7 +58,7 @@
         "des": "Lámpara que nos ayudará a cambiar al bebe *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/Lampara.JPG",
+        "img": "Cuarto/Lampara.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
     },
@@ -67,7 +67,7 @@
         "des": "Edredón para cubrir al bebe *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/Eedredon.JPG",
+        "img": "Cuarto/Eedredon.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
     },
@@ -76,7 +76,7 @@
         "des": "Para poder monitorizar *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/Monitor.JPG",
+        "img": "Cuarto/Monitor.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
     },
@@ -85,7 +85,7 @@
         "des": "Para su cuna. Se deja las dimensiones * ",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/Colchon.JPG",
+        "img": "Cuarto/Colchon.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
     },
@@ -94,7 +94,7 @@
         "des": "Para que nos ayude en la protección del bebe *",
         "sale": 0,
         "part": -1,
-        "img": "cuarto/CojinAntivuelcos.JPG",
+        "img": "Cuarto/CojinAntivuelcos.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
     },
