@@ -162,11 +162,23 @@
       var modalBodyContainerCellButtonI = $("<i></i>");
       modalBodyContainerCellButtonI.attr("class", "fas fa-envelope fa-fw");
       
+      var modalBodyContainerCellCheckBox = $("<input></input>"); 
+      modalBodyContainerCellCheckBox.attr("type", "checkbox");
+      modalBodyContainerCellCheckBox.attr("id", "checkboxProduct"+index);
+      modalBodyContainerCellCheckBox.attr("name", "checkboxProduct"+index);
+      modalBodyContainerCellCheckBox.attr("value", "1");
+      var modalBodyContainerCellCheckBoxText = $("<label></label>"); 
+      modalBodyContainerCellCheckBoxText.attr("for", "checkboxProduct"+index);
+      modalBodyContainerCellCheckBoxText.html("Recoger regalo.&nbsp;&nbsp;");
+
       modalBodyContainerCellButton.click(function (){
         var index = $(this).data('index');
         var nombre = $(this).data('nombre');
         var img = $(this).data('img');
-        window.open(urlWhatsApp + 'Deseo el producto ' + nombre + ' [ ' + window.location.origin + '/public/img/' + img + ' ]');
+        console.log($("#checkboxProduct"+index).val());
+        var recogo = ($("#checkboxProduct"+index).val()=="1")?" y deseo que lo recojan":"";
+        window.open(urlWhatsApp + 'Voy a comprar este regalo ' + nombre + ' [ ' + window.location.origin + 
+          '/public/img/' + img + ' ]' + recogo);
       });
 
       portfolioModal.append(modalDialog);
@@ -183,6 +195,8 @@
       if(product.url != "")
         modalBodyContainerCell.append(modalBodyContainerCellUrl);
 
+      modalBodyContainerCell.append(modalBodyContainerCellCheckBox);
+      modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText);
       modalBodyContainerCell.append(modalBodyContainerCellButton);
       modalBodyContainerCellButton.append(modalBodyContainerCellButtonI);
 
