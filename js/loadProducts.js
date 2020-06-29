@@ -1,6 +1,6 @@
 
     var urlJSON = 'https://midulceperfecto.github.io/babyshower/json/regalos.json';
-    var urlWhatsApp = 'https://wa.me/51956235897?text='
+    var urlWhatsApp = 'https://wa.me/51976822827?text='
 
     $(document).ready(function () {
       
@@ -63,6 +63,7 @@
         portfolioItem.attr("class", "portfolio-item mx-auto");
         portfolioItem.attr("data-toggle", "modal");
         portfolioItem.attr("data-target", "#portfolioModal"+index);
+        portfolioItem.html(product.nom);
 
       var portfolioItemCaption = $("<div></div>");
       portfolioItemCaption.attr("class", "portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"); 
@@ -151,7 +152,7 @@
       var modalBodyContainerCellUrl = $("<a></a>");
         modalBodyContainerCellUrl.attr("href", product.url);
         modalBodyContainerCellUrl.attr("target", "_blank");
-        modalBodyContainerCellUrl.html("Página referente");
+        modalBodyContainerCellUrl.html("Página de referencia");
 
       var modalBodyContainerCellButton = $("<button></button>"); 
       modalBodyContainerCellButton.attr("class", "btn btn-primary");

@@ -10267,7 +10267,8 @@ form .row:first-child .floating-label-form-group {
   left: 50%; 
   transform: translate(-50%, -50%);
   font-size: 2rem;
-  line-height: 3rem;
+  line-height: 2rem;
+  color: white;
 }
 
 .fondoGris {
