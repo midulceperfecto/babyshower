@@ -2,8 +2,8 @@
      {
         "nom": "Almohada asiento ",
         "des": "Asiento para el bebe *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/almohadaasiento.jpg",
         "tags": "all,inicio,cuarto",
         "fav": "1000"
@@ -11,8 +11,8 @@
      {
         "nom": "Almohada para el bebe",
         "des": "Almohadita de bebe *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "C",
         "img": "Cuarto/AlmohadaBebe.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "999"
@@ -20,8 +20,8 @@
      {
         "nom": "Almohada de Lactancía",
         "des": "Cojin para lactancia *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "C",
         "img": "Cuarto/AlmohadaLactancia.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "988"
@@ -29,8 +29,8 @@
      {
         "nom": "Cambiador de pañal",
         "des": "Cambiador de pañal *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/Cambiador.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "2"
@@ -38,8 +38,8 @@
      {
         "nom": "Protector de cuna",
         "des": "Protector de cuna *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/ProtectorCuna.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "3"
@@ -47,8 +47,8 @@
      {
         "nom": "Juego de sábanas",
         "des": "Juego de sábanas *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/JuegoSabanas.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
@@ -56,8 +56,8 @@
      {
         "nom": "Lámpara",
         "des": "Lámpara que nos ayudará a cambiar al bebe *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/Lampara.JPG",
         "tags": "all,cuarto",
         "fav": "1"
@@ -65,8 +65,8 @@
      {
         "nom": "Edredón",
         "des": "Edredón para cubrir al bebe *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/Eedredon.JPG",
         "tags": "all,inicio,cuarto",
         "fav": "1"
@@ -74,8 +74,8 @@
      {
         "nom": "Monitor",
         "des": "Para poder monitorizar *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/Monitor.JPG",
         "tags": "all,cuarto",
         "fav": "1"
@@ -83,8 +83,8 @@
      {
         "nom": "Colchón",
         "des": "Para su cuna. Se deja las dimensiones * ",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/Colchon.JPG",
         "tags": "all,cuarto",
         "fav": "1"
@@ -92,8 +92,8 @@
      {
         "nom": "Cojin antivuelcos",
         "des": "Para que nos ayude en la protección del bebe *",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "Cuarto/CojinAntivuelcos.JPG",
         "tags": "all,cuarto",
         "fav": "1"
@@ -101,8 +101,8 @@
      {
         "nom": "Ajuar ",
         "des": "Ajuar ",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Ajuar.jpg",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -110,8 +110,8 @@
      {
         "nom": "Ajuar ",
         "des": "Ajuar ",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Ajuar2.jpg",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -119,8 +119,8 @@
      {
         "nom": "Ajuar ",
         "des": "Ajuar",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Ajuar3.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -128,8 +128,8 @@
      {
         "nom": "Babero",
         "des": "Babero",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Babero1.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -137,8 +137,8 @@
      {
         "nom": "Babero",
         "des": "Babero",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Babero2.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -146,8 +146,8 @@
      {
         "nom": "Babero",
         "des": "Babitas para hombro",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Babero3.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -155,8 +155,8 @@
      {
         "nom": "Bodys",
         "des": "Bodys manga larga",
-        "sale": 0,
-        "part": -1,
+        "url": "http://miwawaonline.pe/bodys-ml/1014-3719--c2-4-pack-striped-original-bodysuits.html#/11-talla-nb",
+        "est": "P",
         "img": "ropa/Bodys1.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -164,8 +164,8 @@
      {
         "nom": "Bodys",
         "des": "Bodys manga corta",
-        "sale": 0,
-        "part": -1,
+        "url": "http://miwawaonline.pe/bodys-mc/1094-4052--i1-5-pack-animal-original-bodysuits.html#/3-talla-3m",
+        "est": "P",
         "img": "ropa/Bodys2.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -173,8 +173,8 @@
      {
         "nom": "Conjunto verano",
         "des": "Conjunto para verano",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Conjunto_Verano1.JPG",
         "tags": "all,ropa",
         "fav": "1"
@@ -182,8 +182,8 @@
      {
         "nom": "Conjunto verano",
         "des": "Romper para verano",
-        "sale": 0,
-        "part": -1,
+        "url": "http://miwawaonline.pe/rompers/23-467--g4-romper-acero-rayitas-barquito.html#/3-talla-3m",
+        "est": "P",
         "img": "ropa/Conjunto_Verano2.JPG",
         "tags": "all,ropa",
         "fav": "1"
@@ -191,8 +191,8 @@
      {
         "nom": "Conjunto",
         "des": "Conjunto de varias piezas",
-        "sale": 0,
-        "part": -1,
+        "url": "https://www.kukuli.com.pe/ajuar-rafael,296046.html",
+        "est": "P",
         "img": "ropa/Conjunto1.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -200,8 +200,8 @@
      {
         "nom": "Conjunto",
         "des": "Conjunto para sus primeros días",
-        "sale": 0,
-        "part": -1,
+        "url": "https://babyclubchic.com/recien-nacido/827-2946-set-polo-y-pantalon-coleccion-aviones.html#/29-talla-recien_nacido/102-color-blanco_verdee",
+        "est": "P",
         "img": "ropa/Conjunto2.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -209,8 +209,8 @@
      {
         "nom": "Conjunto",
         "des": "Conjunto con pies",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Conjunto3.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -218,8 +218,8 @@
      {
         "nom": "Conjunto",
         "des": "Conjunto sin pies",
-        "sale": 0,
-        "part": -1,
+        "url": "https://www.kukuli.com.pe/conjunto-ariel,296255.html",
+        "est": "P",
         "img": "ropa/Conjunto4.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -227,8 +227,8 @@
      {
         "nom": "Enterizo",
         "des": "Enterizo para dormir",
-        "sale": 0,
-        "part": -1,
+        "url": "http://miwawaonline.pe/baby-s/1083-3952--e3-3-piece-elephant-take-me-home-converter-gown-set.html#/11-talla-nb",
+        "est": "P",
         "img": "ropa/Enterizo1.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -236,8 +236,8 @@
      {
         "nom": "Enterizo",
         "des": "Enterizo de colores",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Enterizo2.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -245,8 +245,8 @@
      {
         "nom": "Enterizo",
         "des": "Enterizo para sus primeros días",
-        "sale": 0,
-        "part": -1,
+        "url": "https://www.kukuli.com.pe/bebecrece-rayitas,296051.html",
+        "est": "P",
         "img": "ropa/Enterizo3.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -254,8 +254,8 @@
      {
         "nom": "Enterizo",
         "des": "Enterizo para sus primeros días",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Enterizo4.jpg",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -263,8 +263,8 @@
      {
         "nom": "Mantas",
         "des": "Mantas de algodón",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Mantas1.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -272,8 +272,8 @@
      {
         "nom": "Medias",
         "des": "Medias ",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Medias1.jpeg",
         "tags": "all,ropa",
         "fav": "1"
@@ -281,8 +281,8 @@
      {
         "nom": "Pantalones con pies",
         "des": "Pantalones con talonera",
-        "sale": 0,
-        "part": -1,
+        "url": "https://babyclubchic.com/recien-nacido/913-3251-pack-de-3-pantalones-coleccion-navegando.html#/29-talla-recien_nacido/81-color-blanco_celeste",
+        "est": "P",
         "img": "ropa/Pantalones1.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -290,8 +290,8 @@
      {
         "nom": "Pantalones sin pies",
         "des": "Pantalones sin talonera",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Pantalones2.JPG",
         "tags": "all,inicio,ropa",
         "fav": "1"
@@ -299,26 +299,35 @@
      {
         "nom": "Polera",
         "des": "Poleras",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Polera1.JPG",
         "tags": "all,ropa",
         "fav": "1"
     },
-   {
+     {
         "nom": "Polos",
         "des": "Polos manga larga",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Polos1.jpg",
+        "tags": "all,ropa",
+        "fav": "1"
+    },
+     {
+        "nom": "Polos",
+        "des": "Polos manga larga",
+        "url": "https://www.kukuli.com.pe/set-polo-x3,296505.html",
+        "est": "P",
+        "img": "ropa/Polos2.jpg",
         "tags": "all,ropa",
         "fav": "1"
     },
      {
         "nom": "Rodillera",
         "des": "Rodillera para sus primeros pasos",
-        "sale": 0,
-        "part": -1,
+        "url": "",
+        "est": "P",
         "img": "ropa/Rodillera.jpeg",
         "tags": "all,ropa",
         "fav": "1"

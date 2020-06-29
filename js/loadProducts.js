@@ -79,8 +79,15 @@
         img.attr("alt", product.nom);
         img.attr("title", product.des);
 
+      var textComprado = $("<div></div>");
+      textComprado.attr("class", "marcaComprado"); 
+      textComprado.html("COMPRADO");
+
       item.append(portfolioItem);
       portfolioItem.append(portfolioItemCaption, img);
+      if(product.img == 'C')
+        portfolioItem.append(textComprado);
+
       portfolioItemCaption.append(portfolioItemCaptionContent);
       portfolioItemCaptionContent.append(fas);
 
