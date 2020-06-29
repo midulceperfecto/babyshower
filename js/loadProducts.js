@@ -180,7 +180,7 @@
         var index = $(this).data('index');
         var nombre = $(this).data('nombre');
         var img = $(this).data('img');
-        var recogo = ($("#checkboxProduct"+index).val()=="1")?" y deseo que lo recojan":"";
+        var recogo = ($("#checkboxProduct"+index).prop('checked'))?" y deseo que lo recojan":"";
         window.open(urlWhatsApp + 'Voy a comprar este regalo ' + nombre + ' [ ' + window.location.origin + 
           '/public/img/' + img + ' ]' + recogo);
       });
