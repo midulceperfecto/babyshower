@@ -150,6 +150,7 @@
         modalBodyContainerCellText.html(product.des);
       var modalBodyContainerCellUrl = $("<a></a>");
         modalBodyContainerCellUrl.attr("href", product.url);
+        modalBodyContainerCellUrl.attr("target", "_blank");
         modalBodyContainerCellUrl.html("Página referente");
 
       var modalBodyContainerCellButton = $("<button></button>"); 
@@ -169,7 +170,7 @@
       modalBodyContainerCellCheckBox.attr("value", "1");
       var modalBodyContainerCellCheckBoxText = $("<label></label>"); 
       modalBodyContainerCellCheckBoxText.attr("for", "checkboxProduct"+index);
-      modalBodyContainerCellCheckBoxText.html("Recoger regalo.&nbsp;&nbsp;");
+      modalBodyContainerCellCheckBoxText.html("&nbsp;Recoger regalo.&nbsp;&nbsp;");
 
       modalBodyContainerCellButton.click(function (){
         var index = $(this).data('index');
@@ -193,10 +194,10 @@
       modalBodyContainerCell.append(modalBodyContainerCellTitle, modalBodyContainerCellDivider, modalBodyContainerCellImg, modalBodyContainerCellText);
 
       if(product.url != "")
-        modalBodyContainerCell.append(modalBodyContainerCellUrl);
+        modalBodyContainerCell.append(modalBodyContainerCellUrl, "<br><br>");
 
       modalBodyContainerCell.append(modalBodyContainerCellCheckBox);
-      modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText);
+      modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText, "<br><br>");
       modalBodyContainerCell.append(modalBodyContainerCellButton);
       modalBodyContainerCellButton.append(modalBodyContainerCellButtonI);
 
