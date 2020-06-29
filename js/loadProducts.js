@@ -197,10 +197,10 @@
       modalBodyContainerCell.append(modalBodyContainerCellTitle, modalBodyContainerCellDivider, modalBodyContainerCellImg, modalBodyContainerCellText);
 
       if(product.url != "")
-        modalBodyContainerCell.append(modalBodyContainerCellUrl, "<br><br>");
+        modalBodyContainerCell.append(modalBodyContainerCellUrl, "&nbsp;&nbsp;&nbsp;&nbsp;");
 
       modalBodyContainerCell.append(modalBodyContainerCellCheckBox);
-      modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText, "<br><br>");
+      modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText, "&nbsp;&nbsp;&nbsp;&nbsp;");
       modalBodyContainerCell.append(modalBodyContainerCellButton);
       modalBodyContainerCellButton.append(modalBodyContainerCellButtonI);
 
