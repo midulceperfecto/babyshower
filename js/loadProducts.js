@@ -5,6 +5,7 @@
     $(document).ready(function () {
       
       loadData('inicio');
+      $("#lnkInicio").click();
 
       $("#txtBuscar").on("keyup", function() {
         var value = $(this).val().toLowerCase();
@@ -179,7 +180,6 @@
         var index = $(this).data('index');
         var nombre = $(this).data('nombre');
         var img = $(this).data('img');
-        console.log($("#checkboxProduct"+index).val());
         var recogo = ($("#checkboxProduct"+index).val()=="1")?" y deseo que lo recojan":"";
         window.open(urlWhatsApp + 'Voy a comprar este regalo ' + nombre + ' [ ' + window.location.origin + 
           '/public/img/' + img + ' ]' + recogo);
