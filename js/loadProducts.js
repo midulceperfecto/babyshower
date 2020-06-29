@@ -62,7 +62,9 @@
       var portfolioItem = $("<div></div>"); 
         portfolioItem.attr("class", "portfolio-item mx-auto textCenter");
         portfolioItem.attr("data-toggle", "modal");
-        portfolioItem.attr("data-target", "#portfolioModal"+index);
+        if(product.est == 'P')
+          portfolioItem.attr("data-target", "#portfolioModal"+index);
+
         portfolioItem.html(product.nom);
 
       var portfolioItemCaption = $("<div></div>");
