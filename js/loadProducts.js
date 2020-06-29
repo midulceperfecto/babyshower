@@ -197,7 +197,7 @@
       modalBodyContainerCell.append(modalBodyContainerCellTitle, modalBodyContainerCellDivider, modalBodyContainerCellImg, modalBodyContainerCellText);
 
       if(product.url != "")
-        modalBodyContainerCell.append(modalBodyContainerCellUrl, "&nbsp;&nbsp;&nbsp;&nbsp;");
+        modalBodyContainerCell.append(modalBodyContainerCellUrl, "<br>");
 
       modalBodyContainerCell.append(modalBodyContainerCellCheckBox);
       modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText, "&nbsp;&nbsp;&nbsp;&nbsp;");
