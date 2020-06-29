@@ -60,7 +60,7 @@
         item.attr("class", "col-md-6 col-lg-4 mb-5");
 
       var portfolioItem = $("<div></div>"); 
-        portfolioItem.attr("class", "portfolio-item mx-auto");
+        portfolioItem.attr("class", "portfolio-item mx-auto textCenter");
         portfolioItem.attr("data-toggle", "modal");
         portfolioItem.attr("data-target", "#portfolioModal"+index);
         portfolioItem.html(product.nom);

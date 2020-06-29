@@ -10274,3 +10274,7 @@ form .row:first-child .floating-label-form-group {
 .fondoGris {
   filter: grayscale(100%);
 }
+.textCenter {
+  text-align: center;
+  font-weight: bold;
+}
