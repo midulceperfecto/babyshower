@@ -75,7 +75,11 @@
 
       var img = $("<img></img>");
         img.attr("src", "img/"+ product.img);
-        img.attr("class", "img-fluid");
+        if(product.est == 'C')
+          img.attr("class", "img-fluid fondoGris");
+        else
+          img.attr("class", "img-fluid");
+
         img.attr("alt", product.nom);
         img.attr("title", product.des);
 
@@ -85,7 +89,7 @@
 
       item.append(portfolioItem);
       portfolioItem.append(portfolioItemCaption, img);
-      if(product.img == 'C')
+      if(product.est == 'C')
         portfolioItem.append(textComprado);
 
       portfolioItemCaption.append(portfolioItemCaptionContent);
@@ -132,6 +136,10 @@
       modalBodyContainerCellTitle.attr("class", "portfolio-modal-title text-secondary text-uppercase mb-0");
       modalBodyContainerCellTitle.attr("id", "portfolioModal"+ index + "Label");
       modalBodyContainerCellTitle.html(product.nom);
+
+      var modalBodyContainerCellDivider = $("<div></div>");
+      modalBodyContainerCellDivider.attr("class", "divider-custom");
+
       var modalBodyContainerCellImg = $("<img></img>");
         modalBodyContainerCellImg.attr("src", "img/"+ product.img);
         modalBodyContainerCellImg.attr("class", "img-fluid rounded mb-5");
@@ -140,6 +148,9 @@
       var modalBodyContainerCellText = $("<p></p>");
         modalBodyContainerCellText.attr("class", "mb-5");
         modalBodyContainerCellText.html(product.des);
+      var modalBodyContainerCellUrl = $("<a></a>");
+        modalBodyContainerCellUrl.attr("href", product.url);
+        modalBodyContainerCellUrl.html("Página referente");
 
       var modalBodyContainerCellButton = $("<button></button>"); 
       modalBodyContainerCellButton.attr("class", "btn btn-primary");
@@ -147,7 +158,7 @@
       modalBodyContainerCellButton.attr("data-index", index);
       modalBodyContainerCellButton.attr("data-nombre", product.nom);
       modalBodyContainerCellButton.attr("data-img", product.img);
-      modalBodyContainerCellButton.html("Consultar");
+      modalBodyContainerCellButton.html("Regalar");
       var modalBodyContainerCellButtonI = $("<i></i>");
       modalBodyContainerCellButtonI.attr("class", "fas fa-envelope fa-fw");
       
@@ -167,7 +178,12 @@
       modalBody.append(modalBodyContainer);
       modalBodyContainer.append(modalBodyContainerRow);
       modalBodyContainerRow.append(modalBodyContainerCell);
-      modalBodyContainerCell.append(modalBodyContainerCellTitle, modalBodyContainerCellImg, modalBodyContainerCellText, modalBodyContainerCellButton);
+      modalBodyContainerCell.append(modalBodyContainerCellTitle, modalBodyContainerCellDivider, modalBodyContainerCellImg, modalBodyContainerCellText);
+
+      if(product.url != "")
+        modalBodyContainerCell.append(modalBodyContainerCellUrl);
+
+      modalBodyContainerCell.append(modalBodyContainerCellButton);
       modalBodyContainerCellButton.append(modalBodyContainerCellButtonI);
 
       portfolioModal.appendTo('#modalProducts'); 
