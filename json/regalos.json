@@ -1,62 +1,80 @@
 [
      {
         "nom": "Almohada asiento ",
-        "des": "Asiento para el bebe *",
+        "des": "Asiento para el bebe ",
         "url": "https://www.babyplaza.com.pe/maternelle-asiento-2-en-1-celeste-universo.html",
         "est": "P",
-        "img": "Cuarto/AlmohadaAsiento.jpg",
-        "tags": "all,inicio,cuarto",
-        "fav": "1000"
+        "img": "Cuarto/almohadaasiento.jpg",
+        "tags": "all,cuarto",
+        "fav": "1"
     },
      {
-        "nom": "Almohada para el bebe",
-        "des": "Almohadita de bebe *",
-        "url": "https://www.babyplaza.com.pe/maternelle-almohadita-para-bebe-rosado.html",
+        "nom": "Almohada para dormir",
+        "des": "Almohadita de bebe ",
+        "url": "https://www.babyinfanti.com.pe/almohadita-anti-cabeza-plana-mate.html",
         "est": "P",
         "img": "Cuarto/AlmohadaBebe.jpg",
-        "tags": "all,inicio,cuarto",
-        "fav": "999"
+        "tags": "all,cuarto",
+        "fav": "1"
     },
      {
         "nom": "Almohada de Lactancía",
-        "des": "Cojin para lactancia *",
+        "des": "Cojin para lactancia ",
         "url": "https://www.babyplaza.com.pe/maternelle-doble-almohada-de-lactancia-celeste-espacial.html",
         "est": "P",
         "img": "Cuarto/AlmohadaLactancia.jpg",
         "tags": "all,inicio,cuarto",
-        "fav": "988"
+        "fav": "999"
     },
      {
         "nom": "Cambiador de pañal",
-        "des": "Cambiador de pañal *",
+        "des": "Cambiador de pañal ",
         "url": "https://www.babyplaza.com.pe/maternelle-cambiador-2-en-1-para-bebes-celeste.html",
         "est": "P",
         "img": "Cuarto/Cambiador.jpg",
-        "tags": "all,inicio,cuarto",
-        "fav": "2"
+        "tags": "all,cuarto",
+        "fav": "1"
     },
      {
-        "nom": "Protector de cuna",
-        "des": "Protector de cuna *",
+        "nom": "Protector de varanda",
+        "des": "Protector de varanda de cuna ",
         "url": "https://www.babyplaza.com.pe/blauhouse-protector-baranda-cuna-de-bebe-vichy-verde.html",
         "est": "P",
         "img": "Cuarto/ProtectorCuna.jpg",
-        "tags": "all,inicio,cuarto",
-        "fav": "3"
+        "tags": "all,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Protector de cuna",
+        "des": "Protector de cuna ",
+        "url": "https://www.babycuy.com/products/blauhouse-protector-de-cuna-trenzado-3-en-1?taxon_id=14&variant_id=9490",
+        "est": "P",
+        "img": "Cuarto/ProtectorCuna2.jpg",
+        "tags": "all,cuarto",
+        "fav": "899"
     },
      {
         "nom": "Juego de sábanas",
-        "des": "Juego de sábanas *",
+        "des": "Juego de sábanas ",
         "url": "https://www.kukuli.com.pe/sabana-ilusion,296541.html",
         "est": "P",
         "img": "Cuarto/JuegoSabanas.jpg",
-        "tags": "all,inicio,cuarto",
+        "tags": "all,cuarto",
+        "fav": "1"
+    },
+     {
+        "nom": "Lámpara músical",
+        "des": "Lámpara que nos ayudará a cambiar al bebe ",
+        "url": "https://www.babyinfanti.com.pe/13050-proyector-soother-tiny-dreamer.html",
+        "est": "P",
+        "img": "Cuarto/LamparaMusical.jpg",
+        "tags": "all,cuarto",
         "fav": "1"
     },
      {
         "nom": "Lámpara",
-        "des": "Lámpara que nos ayudará a cambiar al bebe *",
-        "url": "https://www.babyinfanti.com.pe/13050-proyector-soother-tiny-dreamer.html",
+        "des": "Lámpara de noche",
+        "url": "https://www.babycuy.com/products/luz-led-nube?taxon_id=14&variant_id=6841",
         "est": "P",
         "img": "Cuarto/Lampara.jpg",
         "tags": "all,cuarto",
@@ -64,16 +82,16 @@
     },
      {
         "nom": "Edredón",
-        "des": "Edredón para cubrir al bebe *",
+        "des": "Edredón para cubrir al bebe ",
         "url": "",
         "est": "P",
         "img": "Cuarto/Eedredon.jpg",
-        "tags": "all,inicio,cuarto",
+        "tags": "all,cuarto",
         "fav": "1"
     },
      {
         "nom": "Monitor",
-        "des": "Para poder monitorizar *",
+        "des": "Para poder monitorizar ",
         "url": "https://simple.ripley.com.pe/summer-infant-monitor-video-2039163397670p",
         "est": "P",
         "img": "Cuarto/Monitor.jpg",
@@ -81,17 +99,8 @@
         "fav": "1"
     },
      {
-        "nom": "Colchón",
-        "des": "Para su cuna. Se deja las dimensiones * ",
-        "url": "",
-        "est": "P",
-        "img": "Cuarto/Colchon.jpg",
-        "tags": "all,cuarto",
-        "fav": "1"
-    },
-     {
         "nom": "Cojin antivuelcos",
-        "des": "Para que nos ayude en la protección del bebe *",
+        "des": "Para que nos ayude en la protección del bebe",
         "url": "https://www.falabella.com.pe/falabella-pe/product/16529657/Rodillo-Antialergico-Turquesa/16529657",
         "est": "P",
         "img": "Cuarto/CojinAntivuelcos.jpg",
@@ -123,7 +132,16 @@
         "est": "P",
         "img": "Cuarto/Colcha2.jpg",
         "tags": "all,cuarto",
-        "fav": "1"
+        "fav": "900"
+    },
+     {
+        "nom": "Cuna / Colchón",
+        "des": "Cuna colecho",
+        "url": "https://ohbaby.pe/producto/cuna-colecho-3-en-1/",
+        "est": "P",
+        "img": "Cuarto/Cuna.jpg",
+        "tags": "all,inicio,cuarto",
+        "fav": "100"
     },
      {
         "nom": "Ajuar ",
@@ -131,7 +149,7 @@
         "url": "https://www.facebook.com/tiendas.cicibet/photos/a.553900654649411/3127578580614926",
         "est": "P",
         "img": "Ropa/Ajuar.jpg",
-        "tags": "all,cuarto",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -149,7 +167,7 @@
         "url": "https://www.potitos.com.pe/products/ajuar-navi-luis-azul-7821",
         "est": "P",
         "img": "Ropa/Ajuar3.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -158,7 +176,7 @@
         "url": "https://www.potitos.com.pe/products/ajuar-bb-celst-7818",
         "est": "P",
         "img": "Ropa/Ajuar4.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -167,7 +185,7 @@
         "url": "https://www.kukuli.com.pe/babero-peque%C3%B1in,296491.html",
         "est": "P",
         "img": "Ropa/Babero1.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -176,7 +194,7 @@
         "url": "https://www.potitos.com.pe/products/babero",
         "est": "P",
         "img": "Ropa/Babero2.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -185,7 +203,7 @@
         "url": "https://www.potitos.com.pe/products/babita-bb-algodon-hombrera-est-1",
         "est": "P",
         "img": "Ropa/Babero3.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -195,7 +213,7 @@
         "est": "P",
         "img": "Ropa/Bodys1.jpg",
         "tags": "all,inicio,ropa",
-        "fav": "1"
+        "fav": "997"
     },
      {
         "nom": "Bodys",
@@ -203,7 +221,7 @@
         "url": "http://miwawaonline.pe/bodys-mc/1094-4052--i1-5-pack-animal-original-bodysuits.html#/3-talla-3m",
         "est": "P",
         "img": "Ropa/Bodys2.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -212,7 +230,7 @@
         "url": "https://www.potitos.com.pe/products/body-mgl-pima-abuelo-6266",
         "est": "P",
         "img": "Ropa/Bodys3.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -248,7 +266,7 @@
         "url": "https://www.kukuli.com.pe/ajuar-rafael,296046.html",
         "est": "P",
         "img": "Ropa/Conjunto1.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -258,7 +276,7 @@
         "est": "P",
         "img": "Ropa/Conjunto2.jpg",
         "tags": "all,inicio,ropa",
-        "fav": "1"
+        "fav": "998"
     },
      {
         "nom": "Conjunto",
@@ -266,7 +284,7 @@
         "url": "https://www.babycuy.com/products/agululu-pijama-navideno-rojo?taxon_id=23&variant_id=9615",
         "est": "P",
         "img": "Ropa/Conjunto3.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -275,7 +293,7 @@
         "url": "https://www.kukuli.com.pe/conjunto-ariel,296255.html",
         "est": "P",
         "img": "Ropa/Conjunto4.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -284,7 +302,7 @@
         "url": "https://simple.ripley.com.pe/baby-harvest-conjunto-polar-bebe-2033235325882?color_80=rojo",
         "est": "P",
         "img": "Ropa/Conjunto5.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -293,7 +311,7 @@
         "url": "http://miwawaonline.pe/baby-s/1083-3952--e3-3-piece-elephant-take-me-home-converter-gown-set.html#/11-talla-nb",
         "est": "P",
         "img": "Ropa/Enterizo1.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -302,7 +320,7 @@
         "url": "https://www.colloky.com.pe/enterizo-patron-animales-del-desierto-beige-olpu0166i20/p",
         "est": "P",
         "img": "Ropa/Enterizo2.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -311,7 +329,7 @@
         "url": "https://www.kukuli.com.pe/bebecrece-rayitas,296051.html",
         "est": "P",
         "img": "Ropa/Enterizo3.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -320,17 +338,17 @@
         "url": "https://simple.ripley.com.pe/baby-harvest-ositos-bebecrece-enterizo-plush-unisex-2033235519434",
         "est": "P",
         "img": "Ropa/Enterizo4.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
         "nom": "Mantas",
         "des": "Mantas de algodón",
-        "url": "",
+        "url": "https://babyclubchic.com/recien-nacido/727-3827-manta-polar-doble-capa-coleccion-navegando-1179729.html#/28-color-celeste/96-talla-talla_unica",
         "est": "P",
         "img": "Ropa/Mantas1.jpg",
         "tags": "all,inicio,ropa",
-        "fav": "1"
+        "fav": "996"
     },
      {
         "nom": "Mantas",
@@ -338,7 +356,7 @@
         "url": "https://www.potitos.com.pe/products/manta-bb-jackard-puntitos-conejo-verde-6446",
         "est": "P",
         "img": "Ropa/Mantas2.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -347,7 +365,7 @@
         "url": "https://www.kukuli.com.pe/manta-amigos,296078.html",
         "est": "P",
         "img": "Ropa/Mantas3.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -365,7 +383,7 @@
         "url": "https://babyclubchic.com/recien-nacido/913-3251-pack-de-3-pantalones-coleccion-navegando.html#/29-talla-recien_nacido/81-color-blanco_celeste",
         "est": "P",
         "img": "Ropa/Pantalones1.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -374,7 +392,7 @@
         "url": "https://www.potitos.com.pe/products/pack-x-3-pantalon-bb-pima-estampado-nino-6204",
         "est": "P",
         "img": "Ropa/Pantalones2.jpg",
-        "tags": "all,inicio,ropa",
+        "tags": "all,ropa",
         "fav": "1"
     },
      {
@@ -407,7 +425,7 @@
      {
         "nom": "Rodillera",
         "des": "Rodillera para sus primeros pasos",
-        "url": "",
+        "url": "https://www.babycuy.com/products/rodilleras?taxon_id=44&variant_id=6878",
         "est": "P",
         "img": "Ropa/Rodillera.jpg",
         "tags": "all,ropa",
@@ -418,7 +436,7 @@
         "des": "Pañalera",
         "url": "https://www.potitos.com.pe/products/panales-bombasi-franela-blanco-4315",
         "est": "P",
-        "img": "Ropa/Panialera1.jpg",
+        "img": "Ropa/Panialera.jpg",
         "tags": "all,ropa",
         "fav": "1"
     },
@@ -455,13 +473,13 @@
         "url": "https://www.babyinfanti.com.pe/7934819-ba-era-cuddle-bubble-comfort-grey.html",
         "est": "P",
         "img": "Higiene/Bañera1.jpg",
-        "tags": "all,higiene",
-        "fav": "1"
+        "tags": "all,inicio,higiene",
+        "fav": "995"
     },
      {
         "nom": "Soporte de bañera",
         "des": "Soporte de bañera",
-        "url": "https://www.linio.com.pe/p/ban-ador-deluxe-triangle-stripes-n24bla?qid=0dcd1b3412aed90b618da4d0a97015a5&oid=SU829TB1941N2LPE&position=7&sku=SU829TB1941N2LPE",
+        "url": "https://www.falabella.com.pe/falabella-pe/product/16974220/Banador-Deluxe-Triangle-Stripes/16974220",
         "est": "P",
         "img": "Higiene/SoporteBañera1.jpg",
         "tags": "all,higiene",
@@ -486,8 +504,8 @@
         "fav": "1"
     },
      {
-        "nom": "Pañal",
-        "des": "Pañal",
+        "nom": "Pañales",
+        "des": "Pañales",
         "url": "",
         "est": "P",
         "img": "Higiene/Paniales.jpg",
@@ -495,8 +513,8 @@
         "fav": "1"
     },
      {
-        "nom": "Toallas Humedas",
-        "des": "Toallas Humed",
+        "nom": "Toallitas Húmeds",
+        "des": "Toallitas Húmeds",
         "url": "",
         "est": "P",
         "img": "Higiene/ToallasHumedas.jpg",
@@ -504,12 +522,30 @@
         "fav": "1"
     },
      {
-        "nom": "Modedor",
-        "des": "Modedor",
+        "nom": "Crema",
+        "des": "Crema de escaldaduras",
+        "url": "https://www.metro.pe/crema-para-escaldaduras-dr-zaidman-pote-30-g-8259/p",
+        "est": "P",
+        "img": "Higiene/CremaEscaldaduras.jpg",
+        "tags": "all,higiene",
+        "fav": "1"
+    },
+     {
+        "nom": "Shampoo",
+        "des": "Shampoo",
+        "url": "https://tiempoconmigo.com/collections/eucerin-recomienda/products/copia-de-eucerin-baby-bano-shampoo-240ml",
+        "est": "P",
+        "img": "Higiene/EucerinShampo.jpg",
+        "tags": "all,higiene",
+        "fav": "1"
+    },
+     {
+        "nom": "Mordedor",
+        "des": "Mordedor",
         "url": "https://www.babyinfanti.com.pe/0186977-juguete-para-coche-jerry-jirafa.html",
         "est": "P",
         "img": "Jugueteria/Mordedor1.jpg",
-        "tags": "all,inicio, Jugueteria",
+        "tags": "all, Jugueteria",
         "fav": "1"
     },
      {
@@ -518,7 +554,7 @@
         "url": "https://www.babyinfanti.com.pe/0185478-mini-movil-on-the-go.html",
         "est": "P",
         "img": "Jugueteria/Musical2.jpg",
-        "tags": "all,inicio, Jugueteria",
+        "tags": "all, Jugueteria",
         "fav": "1"
     },
      {
@@ -537,7 +573,7 @@
         "est": "P",
         "img": "Jugueteria/Mecedora.jpg",
         "tags": "all,inicio, Jugueteria",
-        "fav": "1"
+        "fav": "994"
     },
      {
         "nom": "Gimnasio ",
@@ -569,11 +605,11 @@
      {
         "nom": "Biberones",
         "des": "Biberones de 4 onzas",
-        "url": "https://www.babyplaza.com.pe/dr-browns-biberones-anticolico-bebes-120ml-ops-x3.html",
+        "url": "https://www.falabella.com.pe/falabella-pe/product/17018311/Set-x-3-Biberon-Boca-Estrecha-Options-+-4-Oz/17018311",
         "est": "P",
         "img": "Accesorios/Biberones1.jpg",
-        "tags": "all,Accesorios",
-        "fav": "1"
+        "tags": "all,inicio,Accesorios",
+        "fav": "993"
     },
      {
         "nom": "Cepillo",
@@ -596,8 +632,8 @@
      {
         "nom": "Porta Biberones",
         "des": "Porta biberon",
-        "url": "https://www.babycuy.com/products/porta-biberones?taxon_id=36&variant_id=6246",
-        "est": "P",
+        "url": "https://babyclubchic.com/recien-nacido/749-3665-porta-biberon-milan-1180463.html#/28-color-celeste/96-talla-talla_unica",
+        "est": "C",
         "img": "Accesorios/PortaBiberones.jpg",
         "tags": "all,Accesorios",
         "fav": "1"
@@ -612,11 +648,20 @@
         "fav": "1"
     },
      {
-        "nom": "Terno",
+        "nom": "Terno plomo",
         "des": "Termo para su leche",
         "url": "https://www.babycuy.com/products/reer-envase-termico-de-acero-para-liquidos?taxon_id=3&variant_id=8771",
         "est": "P",
         "img": "Accesorios/Termo.jpg",
+        "tags": "all,Accesorios",
+        "fav": "1"
+    },
+     {
+        "nom": "Terno verde",
+        "des": "Termo para su leche",
+        "url": "https://platanitos.com/casaideas-termo-verde-750ml-verde-174948",
+        "est": "P",
+        "img": "Accesorios/Termo2.jpg",
         "tags": "all,Accesorios",
         "fav": "1"
     },
@@ -640,7 +685,7 @@
     },
      {
         "nom": "Dosificador",
-        "des": "Biberones de 8 onzas",
+        "des": "Separador de fórmula",
         "url": "https://www.babycuy.com/products/dreambaby-dosificador-de-formula?taxon_id=3&variant_id=8585",
         "est": "P",
         "img": "Accesorios/Dosificador.jpg",
@@ -648,10 +693,37 @@
         "fav": "1"
     },
      {
+        "nom": "Calentador",
+        "des": "Calentador de biberones",
+        "url": "https://www.babyplaza.com.pe/dr-brown-s-calentador-biberones-bebe.html",
+        "est": "P",
+        "img": "Accesorios/CalentadorBiberones.JPG",
+        "tags": "all,inicio,Accesorios",
+        "fav": "992"
+    },
+     {
+        "nom": "Esterilizador",
+        "des": "Esterelizador de biberores",
+        "url": "https://www.babyplaza.com.pe/dr-brown-s-esterilizador-biberones-para-microondas.html",
+        "est": "P",
+        "img": "Accesorios/Esterelizador.JPG",
+        "tags": "all,inicio,Accesorios",
+        "fav": "991"
+    },
+     {
+        "nom": "Chupones",
+        "des": "Chupones para el bebe",
+        "url": "https://www.wong.pe/nuk-chupon-freestyle-1-nino-pack-de-2-unid-723381/p",
+        "est": "P",
+        "img": "Accesorios/Chupones.JPG",
+        "tags": "all,Accesorios",
+        "fav": "1"
+    },
+     {
         "nom": "Bolso",
         "des": "Organizador para la ropa del bebe",
         "url": "https://www.kukuli.com.pe/bolso-pa%C3%B1alero-gotica,296321.html",
-        "est": "P",
+        "est": "C",
         "img": "Paseo/Bolso.jpg",
         "tags": "all,Paseo",
         "fav": "1"
@@ -712,7 +784,7 @@
     },
      {
         "nom": "Asiento",
-        "des": "Coche",
+        "des": "Asiento",
         "url": "https://www.babyinfanti.com.pe/speed-booster-alzador-solid-grey.html",
         "est": "P",
         "img": "Paseo/Asiento1.jpg",
