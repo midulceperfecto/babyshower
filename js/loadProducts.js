@@ -5,7 +5,17 @@
     $(document).ready(function () {
       
       loadData('inicio');
-      $("#lnkInicio").click();
+
+      console.log(localStorage.getItem("visitaPersonal"));
+
+      var contador = 0
+      if(localStorage.getItem("visitaPersonal") != null)
+          contador = eval(localStorage.getItem("visitaPersonal"));
+      contador++;
+      localStorage.setItem("visitaPersonal", contador);
+
+      if(contador <= 5)
+        $("#lnkInicio").click();
 
       $("#txtBuscar").on("keyup", function() {
         var value = $(this).val().toLowerCase();
