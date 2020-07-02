@@ -207,11 +207,11 @@
       modalBodyContainerCell.append(modalBodyContainerCellTitle, modalBodyContainerCellDivider, modalBodyContainerCellImg, modalBodyContainerCellText);
 
       if(product.url != "")
-        modalBodyContainerCell.append(modalBodyContainerCellUrl, "<br>");
+        modalBodyContainerCellText.append("<br>", modalBodyContainerCellUrl);
 
-      modalBodyContainerCell.append(modalBodyContainerCellCheckBox);
-      modalBodyContainerCell.append(modalBodyContainerCellCheckBoxText, "&nbsp;&nbsp;&nbsp;&nbsp;");
-      modalBodyContainerCell.append(modalBodyContainerCellButton);
+      modalBodyContainerCellText.append("<br>", modalBodyContainerCellCheckBox);
+      modalBodyContainerCellText.append(modalBodyContainerCellCheckBoxText, "&nbsp;&nbsp;&nbsp;&nbsp;");
+      modalBodyContainerCellText.append(modalBodyContainerCellButton);
       modalBodyContainerCellButton.append(modalBodyContainerCellButtonI);
 
       portfolioModal.appendTo('#modalProducts'); 
